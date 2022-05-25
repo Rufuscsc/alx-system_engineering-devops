@@ -1,0 +1,10 @@
+#!/bin/bash
+pwd
+press
+control x and contro s
+0-current_working_directory
+press
+control x and control c
+control x control s
+control x control c
+C-x C-c
